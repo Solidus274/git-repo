@@ -1,6 +1,4 @@
-//hello
 print("hello");
 print("World");
-
-
-
+print("Felis navida");
+print("Weeeee");
